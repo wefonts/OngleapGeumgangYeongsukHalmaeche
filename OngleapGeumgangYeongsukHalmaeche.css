@@ -8,3 +8,7 @@
          url("https://cdn.jsdelivr.net/gh/wefonts/OngleapGeumgangYeongsukHalmaeche/OngleapGeumgangYeongsukHalmaeche.ttf") format("truetype");
     font-display: swap;
 }
+
+.OngleapGeumgangYeongsukHalmaeche {
+    font-family: "OngleapGeumgangYeongsukHalmaeche";
+}
